@@ -1,2 +1,40 @@
 # google-homepage
 My first repository on GitHub
+<!DOCTYPE html>
+<html>
+<head>
+  <link type="text/CSS" rel="stylesheet" href="stylesheet.css"/>
+  <title>Google homepage</title>
+</head> 
+<body>
+  <div class="navigation">
+    <ul>
+      <li><a href="https://accounts.google.com/servicelogin?service=mail">+You</a></li>
+      <li><a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?tab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1">Gmail</a></li>
+      <li><a href="https://www.google.co.uk/imghp?hl=en&tab=wi&ei=7CTnVMLQHIPqOOK2gbgI&ved=0CAQQqi4oAg">Images</a></li>
+      <li><a href="http://www.google.co.uk/intl/en/about/products/">Apps</a></li>
+      <li><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.co.uk/%3Fgws_rd%3Dssl"><div class="sign"><strong>Sign in</strong></div></a></li>
+    </ul>
+  </div>
+  <img src="https://www.google.rs/images/srpr/logo11w.png">
+  <div id="search"><p>build this Google website</p></div>
+  <div id="googlesearch"><a href="#">Google Search</a></div>
+  <div id="lucky"><a href="https://www.google.com/doodles">I'm Feeling Lucky</a></div>
+  <div id="footer">
+    <div class="left">
+      <ul>
+        <li><a href="https://www.google.co.uk/intl/en/ads/?fg=1"><p>Advetising</p></a></li>
+        <li><a href="https://www.google.co.uk/services/?fg=1"><p>Business</p></a></li>
+        <li><a href="https://www.google.co.uk/intl/en/about.html?fg=1"><p>About</p></a></li>
+      </ul>
+    </div>
+    <div class="right">
+      <ul>
+        <li><a href="https://www.google.co.uk/intl/en/policies/privacy/?fg=1"><p>Privacy</p></a><li>
+        <li><a href="https://www.google.co.uk/intl/en/policies/terms/?fg=1"><p>Terms</p></a></li>
+        <li><a href="https://www.google.co.uk/preferences?hl=en"><p>Settings</p></a></li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>  
